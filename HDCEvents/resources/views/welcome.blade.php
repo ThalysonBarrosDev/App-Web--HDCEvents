@@ -1,6 +1,6 @@
 @extends('layout.main')
 
-@section('title', 'HDC Events - Home')
+@section('title', 'Eventos - Home')
 
 @section('content')
 
